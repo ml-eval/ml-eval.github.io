@@ -311,3 +311,123 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
+
+# -----------------
+# Organizers
+# -----------------
+organizers: [
+    {'name': 'Stephanie Chan',
+    'website': 'https://scholar.google.com/citations?hl=en&user=bXOt49QAAAAJ',
+    'affiliations': 'DeepMind',
+    'img_path': "https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=1"},
+    {'name': 'Rishabh Agarwal',
+    'website': 'https://agarwl.github.io',
+    'affiliations': 'Google Brain',
+    'img_path': "https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=2"},
+    {'name': 'Xavier Bouthillier',
+    'website': 'https://bouthilx.github.io',
+    'affiliations': 'Mila, Université de Montréal',
+    'img_path': "https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=3"},
+    {'name': 'Caglar Gulcehre',
+    'website': 'https://caglarg.com',
+    'affiliations': 'DeepMind',
+    'img_path': "https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=4"},
+    {'name': 'Jesse Dodge',
+    'website': 'http://www.cs.cmu.edu/~jessed/',
+    'affiliations': 'Allen Institute for AI',
+    'img_path': "https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=5"},
+]
+
+speakers: [
+    &rotem_dror {'name': 'Rotem Dror',
+    'website': '',
+    'affiliations': 'University of Pennsylvania',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=5"},
+    {'name': 'Katherine Heller',
+    'website': '',
+    'affiliations': 'Google Brain',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=6"},
+    &james_evans {'name': 'James Evans',
+    'website': '',
+    'affiliations': 'University of Chicago',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=7"},
+    &frank_schneider {'name': 'Frank Schneider',
+    'website': '',
+    'affiliations': 'University of Tübingen',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=8"},
+    {'name': 'Phillipp Hennig',
+    'website': '',
+    'affiliations': 'University of Tübingen',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=9"},
+    &corrina_cortes {'name': 'Corrina Cortes',
+    'website': '',
+    'affiliations': 'Google Research NYC',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=10"},
+    {'name': 'Thomas Wolf',
+    'website': '',
+    'affiliations': 'Hugginface Inc.',
+    'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=11"}
+]
+
+panels: [
+    {'name': 'Reproducibility and Rigor in ML',
+    'moderator': 'Rishabh Agarwal',
+    'panelists': [
+        *rotem_dror,
+        {'name': 'Gaël Varoquaux',
+        'website': '',
+        'affiliations': 'INRIA',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=12"},
+        {'name': 'Sara Hooker',
+        'website': '',
+        'affiliations': 'Google Brain',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=13"},
+        {'name': 'Koustuv Sinha',
+        'website': '',
+        'affiliations': 'FAIR',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=14"},
+        *frank_schneider
+        ]
+    },
+    {'name': 'Slow vs Fast Science',
+    'moderator': 'Stephanie Chan',
+    'panelists': [
+        {'name': 'Oriol Vinyals',
+        'website': '',
+        'affiliations': 'DeepMind',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=13"},
+        {'name': 'Chelsea Finn',
+        'website': '',
+        'affiliations': 'Stanford University',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=14"},
+        *james_evans,
+        {'name': 'Russel Poldrack',
+        'website': '',
+        'affiliations': 'Stanford University',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=15"},
+        {'name': 'TBD',
+        'website': '',
+        'affiliations': 'TBD',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=16"}
+        ]
+    },
+    {'name': 'Incentives for Better Evaluation',
+    'moderator': 'Xavier Bouthillier',
+    'panelists': [
+        {'name': 'Yoshua Bengio',
+        'website': '',
+        'affiliations': 'Mila, Université de Montréal',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=17"},
+        {'name': 'John Langford',
+        'website': '',
+        'affiliations': 'Microsoft Research',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=18"},
+        *corrina_cortes,
+        {'name': 'TBD',
+        'website': '',
+        'affiliations': 'TBD',
+        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=19"},
+        ]
+    }
+]
