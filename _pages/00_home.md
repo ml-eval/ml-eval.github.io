@@ -31,7 +31,7 @@ evaluation in ML. These topics may include:
 - Incentives for doing better evaluation and reporting results
 
 
-# Speakers
+# [Speakers](/talks)
 
 <table style="width:75%">
   <tr>
@@ -41,7 +41,7 @@ evaluation in ML. These topics may include:
   </tr>
   <tr>
     {% for speaker in site.speakers limit:4 %}
-        <td style="text-align:center"><a href="{{ speaker.website }}"> {{ speaker.name }}</a> <br> {{ speaker.affiliations }} </td>
+        <td style="text-align:center"><a href="/talks#{{ speaker.anchor}}"> {{ speaker.name }}</a> <br> {{ speaker.affiliations }} </td>
     {% endfor %} 
   </tr>
   <tr>
