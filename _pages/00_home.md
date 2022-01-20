@@ -43,6 +43,8 @@ TODO
 
 **Moderator:** {{ panel.moderator }}
 
+{{ panel.description }}
+
 <table style="width:75%">
   <tr>
     {% for panelist in panel.panelists limit:3 %}

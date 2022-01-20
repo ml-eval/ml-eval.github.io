@@ -373,6 +373,7 @@ speakers: [
 panels: [
     {'name': 'Reproducibility and Rigor in ML',
     'moderator': 'Rishabh Agarwal',
+    'description': "Example of questions we would like to cover are: What is reproducibility? What is it useful for and is it necessary for machine learning research? Are we in a different position with respect to other scientific fields because of e.g. the speed of iteration, a culture of open source, and stronger control over our experiments (compared to the natural sciences)? Should we embrace more statistical tools of other scientific domains, or are current  benchmarking methods sufficiently reliable? How much rigor is needed for ML?",
     'panelists': [
         *rotem_dror,
         {'name': 'Gaël Varoquaux',
@@ -392,6 +393,7 @@ panels: [
     },
     {'name': 'Slow vs Fast Science',
     'moderator': 'Stephanie Chan',
+    'description': "Examples of questions we would like to cover are: Slow or fast science, is this a false dichotomy? Is the slow-science movement a threat for exploration? Or is the current pace of publication becoming overwhelming, harming the dissemination of knowledge? Should we look for incentives to balance so-called ‘slow’ and ‘fast’ approaches and if so how could we evaluate what would be a proper balance?",
     'panelists': [
         {'name': 'Oriol Vinyals',
         'website': '',
@@ -414,6 +416,7 @@ panels: [
     },
     {'name': 'Incentives for Better Evaluation',
     'moderator': 'Xavier Bouthillier',
+    'description': "Examples of questions we would like to cover are: What are the pain-points for which we would need new/better incentives to improve the situation? What roles are the conferences and journals playing to improve these pain-points? Are we investing enough effort to monitor and identify issues in the review process? Is it acceptable to increase the workload of reviewers and ACs in order to gather data about the review process? Would a tighter loop between research and production lead to greater accountability?",
     'panelists': [
         {'name': 'Yoshua Bengio',
         'website': '',
