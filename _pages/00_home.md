@@ -7,8 +7,29 @@ nav: true
 horizontal: false
 ---
 
-TODO
-# Call for papers
+
+The aim of the workshop is to discuss and propose standards for evaluating ML research,
+in order to better identify promising new directions and to accelerate real progress in the field of
+ML research. The problem requires understanding the kinds of practices that add or detract from the
+generalizability or reliability of results reported, and incentives for researchers to follow best
+practices. We may draw inspiration from adjacent scientific fields, from statistics, or history of
+science. Acknowledging that there is no consensus on best practices for ML, the workshop will have a
+focus on panel discussions and a few invited talks representing a variety of perspectives. The call
+to papers will welcome opinion papers as well as more technical papers on evaluation of ML methods.
+We plan to summarize the findings and topics that emerged during our workshop in a short report.
+
+# [Call for papers](/call-for-papers)
+
+We invite two types of papers -- opinion papers (up to 4 pages) stating positions on the topics
+related to those listed above, and methodology papers (up to 8 pages excluding references) about
+evaluation in ML. These topics may include: 
+
+- Establishing benchmarking standards for ML research
+- Reliable tools/protocols for benchmarking and evaluation
+- Understanding and defining reproducibility for machine learning
+- Meta analyses thoroughly evaluating existing claims across papers
+- Incentives for doing better evaluation and reporting results
+
 
 # Speakers
 
