@@ -36,7 +36,7 @@ evaluation in ML. These topics may include:
 <table style="width:75%">
   <tr>
     {% for speaker in site.speakers limit:4 %}
-        <td style="text-align:center"><img src="{{ speaker.img_path }}" alt="" height="175" width="175"></td>
+        <td style="text-align:center"><img class="thumbnail" src="{{ speaker.img_path }}" alt=""></td>
     {% endfor %}
   </tr>
   <tr>
@@ -46,7 +46,7 @@ evaluation in ML. These topics may include:
   </tr>
   <tr>
     {% for speaker in site.speakers offset:4 %}
-        <td style="text-align:center"><img src="{{ speaker.img_path }}" alt="" height="175" width="175"></td>
+        <td style="text-align:center"><img class="thumbnail" src="{{ speaker.img_path }}" alt=""></td>
     {% endfor %}
   </tr>
   <tr>
@@ -69,7 +69,7 @@ evaluation in ML. These topics may include:
 <table style="width:75%">
   <tr>
     {% for panelist in panel.panelists limit:3 %}
-        <td style="text-align:center"><img src="{{ panelist.img_path }}" alt="" height="175" width="175"></td>
+        <td style="text-align:center"><img class="thumbnail" src="{{ panelist.img_path }}" alt=""></td>
     {% endfor %}
   </tr>
   <tr>
@@ -79,7 +79,7 @@ evaluation in ML. These topics may include:
   </tr>
   <tr>
     {% for panelist in panel.panelists offset:3 %}
-        <td style="text-align:center"><img src="{{ panelist.img_path }}" alt="" height="175" width="175"></td>
+        <td style="text-align:center"><img class="thumbnail" src="{{ panelist.img_path }}" alt=""></td>
     {% endfor %}
   </tr>
   <tr>
@@ -95,7 +95,7 @@ evaluation in ML. These topics may include:
 <table style="width:75%">
   <tr>
     {% for organizer in site.organizers limit:3 %}
-        <td style="text-align:center"><img src="{{ organizer.img_path }}" alt="" height="175" width="175"></td>
+        <td style="text-align:center"><img class="thumbnail" src="{{ organizer.img_path }}" alt=""></td>
     {% endfor %}
   </tr>
   <tr>
@@ -105,7 +105,7 @@ evaluation in ML. These topics may include:
   </tr>
   <tr>
     {% for organizer in site.organizers offset:3 %}
-        <td style="text-align:center"><img src="{{ organizer.img_path }}" alt="" height="175" width="175"></td>
+        <td style="text-align:center"><img class="thumbnail" src="{{ organizer.img_path }}" alt=""></td>
     {% endfor %}
   </tr>
   <tr>
