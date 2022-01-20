@@ -341,34 +341,42 @@ organizers: [
 
 speakers: [
     &rotem_dror {'name': 'Rotem Dror',
+    'anchor': 'rotem_dror',
     'website': '',
     'affiliations': 'University of Pennsylvania',
     'img_path':"assets/img/rotem_dror.jpeg"},
     {'name': 'Katherine Heller',
+    'anchor': 'katherine_heller',
     'website': '',
     'affiliations': 'Google Brain',
     'img_path':"assets/img/katherine_heller.jpeg"},
     &james_evans {'name': 'James Evans',
+    'anchor': 'james_evans',
     'website': '',
     'affiliations': 'University of Chicago',
     'img_path':"assets/img/james_evans.jpg"},
     {'name': 'Melanie Mitchell',
+    'anchor': 'melanie_mitchell',
     'website': '',
     'affiliations': 'Sante Fe Institute',
     'img_path':"assets/img/melanie_mitchell.jpg"},
     &frank_schneider {'name': 'Frank Schneider',
+    'anchor': 'frank_schneider',
     'website': '',
     'affiliations': 'University of Tübingen',
     'img_path':"assets/img/frank_schneider.jpg"},
     {'name': 'Phillipp Hennig',
+    'anchor': 'phillipp_hennig',
     'website': '',
     'affiliations': 'University of Tübingen',
     'img_path':"assets/img/philipp_hennig.jpeg"},
     &corrina_cortes {'name': 'Corrina Cortes',
+    'anchor': 'corrina_cortes',
     'website': '',
     'affiliations': 'Google Research NYC',
     'img_path':"assets/img/corinna_cortes.jpeg"},
     {'name': 'Thomas Wolf',
+    'anchor': 'thomas_wolf',
     'website': '',
     'affiliations': 'Hugginface Inc.',
     'img_path':"assets/img/thomas_wolf.jpg"}
@@ -376,6 +384,7 @@ speakers: [
 
 panels: [
     {'name': 'Reproducibility and Rigor in ML',
+    'anchor': 'reproducibility_and_rigor_in_ml',
     'moderator': 'Rishabh Agarwal',
     'description': "Example of questions we would like to cover are: What is reproducibility? What is it useful for and is it necessary for machine learning research? Are we in a different position with respect to other scientific fields because of e.g. the speed of iteration, a culture of open source, and stronger control over our experiments (compared to the natural sciences)? Should we embrace more statistical tools of other scientific domains, or are current  benchmarking methods sufficiently reliable? How much rigor is needed for ML?",
     'panelists': [
@@ -396,6 +405,7 @@ panels: [
         ]
     },
     {'name': 'Slow vs Fast Science',
+    'anchor': 'slow_vs_fast_science',
     'moderator': 'Stephanie Chan',
     'description': "Examples of questions we would like to cover are: Slow or fast science, is this a false dichotomy? Is the slow-science movement a threat for exploration? Or is the current pace of publication becoming overwhelming, harming the dissemination of knowledge? Should we look for incentives to balance so-called ‘slow’ and ‘fast’ approaches and if so how could we evaluate what would be a proper balance?",
     'panelists': [
@@ -419,6 +429,7 @@ panels: [
         ]
     },
     {'name': 'Incentives for Better Evaluation',
+    'anchor': 'incentives_for_better_eval',
     'moderator': 'Xavier Bouthillier',
     'description': "Examples of questions we would like to cover are: What are the pain-points for which we would need new/better incentives to improve the situation? What roles are the conferences and journals playing to improve these pain-points? Are we investing enough effort to monitor and identify issues in the review process? Is it acceptable to increase the workload of reviewers and ACs in order to gather data about the review process? Would a tighter loop between research and production lead to greater accountability?",
     'panelists': [

@@ -51,20 +51,16 @@ evaluation in ML. These topics may include:
   </tr>
   <tr>
     {% for speaker in site.speakers offset:4 %}
-        <td style="text-align:center"><a href="{{ speaker.website }}"> {{ speaker.name }}</a> <br> {{ speaker.affiliations }} </td>
+        <td style="text-align:center"><a href="/talks#{{ speaker.anchor}}"> {{ speaker.name }}</a> <br> {{ speaker.affiliations }} </td>
     {% endfor %} 
   </tr>
 </table>
 
-# Panels
+# [Panels](/panels)
 
 {%- for panel in site.panels %}
 
-## {{ panel.name }}
-
-**Moderator:** {{ panel.moderator }}
-
-{{ panel.description }}
+## [{{ panel.name }}](/panels#{{ panel.anchor }})
 
 <table style="width:75%">
   <tr>
@@ -88,6 +84,7 @@ evaluation in ML. These topics may include:
     {% endfor %} 
   </tr>
 </table>
+
 {%- endfor %}
 
 # Organizers
