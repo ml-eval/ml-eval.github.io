@@ -2,7 +2,7 @@
 layout: page
 title: Panels
 permalink: /panels/
-description: TODO
+description: We plan to organize 3 panel discussions on the topics mentioned below.
 nav: true
 horizontal: false
 ---
