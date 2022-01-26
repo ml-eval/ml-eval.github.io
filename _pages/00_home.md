@@ -30,6 +30,8 @@ evaluation in ML. These topics may include:
 - Meta analyses thoroughly evaluating existing claims across papers
 - Incentives for doing better evaluation and reporting results
 
+Submission Site: https://cmt3.research.microsoft.com/SMILES2022/
+
 
 # [Speakers](/talks)
 
