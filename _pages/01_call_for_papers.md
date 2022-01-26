@@ -37,7 +37,7 @@ evaluation in ML. These topics may include:
   - Understanding differences across subfields in ML evaluation
 
 # Submission Website 
-https://cmt3.research.microsoft.com/SMILES2022/
+<a href="https://cmt3.research.microsoft.com/SMILES2022/"> https://cmt3.research.microsoft.com/SMILES2022 </a>
 
 # Important Dates
 
