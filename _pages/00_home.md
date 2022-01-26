@@ -17,7 +17,7 @@ science. Acknowledging that there is no consensus on best practices for ML, the 
 focus on panel discussions and a few invited talks representing a variety of perspectives. The call
 to papers will welcome opinion papers as well as more technical papers on evaluation of ML methods.
 We plan to summarize the findings and topics that emerged during our workshop in a short report.
-For any queries, please reach out to the organizers at <a href="mailto:ml-eval-iclr2022@googlegroups.com"> ml-eval-iclr2022@googlegroups.com </a>.
+
 
 # [Call for papers](/call-for-papers)
 
@@ -115,5 +115,4 @@ Submission Site: <a href="https://cmt3.research.microsoft.com/SMILES2022/"> http
   </tr>
 </table>
 
-
-# Organizers affiliations
+For any queries, please reach out to the organizers at <a href="mailto:ml-eval-iclr2022@googlegroups.com"> ml-eval-iclr2022@googlegroups.com </a>.
