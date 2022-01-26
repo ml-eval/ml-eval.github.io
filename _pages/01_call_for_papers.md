@@ -36,12 +36,15 @@ evaluation in ML. These topics may include:
   - Cultural changes and software tools for reliable evaluation
   - Understanding differences across subfields in ML evaluation
 
+# Submission Website 
+https://cmt3.research.microsoft.com/SMILES2022/
+
 # Important Dates
 
 - Submission deadline: 4th March
 - Accept/Reject Notification Date: 25th March
 - Camera Ready: 18th April
-- Workshop: 29th April
+- Workshop: 29th April 
 
 # Submission instructions
 
