@@ -422,10 +422,10 @@ panels: [
         'website': '',
         'affiliations': 'Stanford University',
         'img_path':"assets/img/russel_poldrack.jpg"},
-        {'name': 'TBD',
-        'website': '',
-        'affiliations': 'TBD',
-        'img_path':"https://thecatapi.com/api/images/get?format=src&type=gif&timestamp=16"}
+        {'name': 'Michela Paganini',
+        'website': 'https://mickypaganini.github.io/',
+        'affiliations': 'DeepMind',
+        'img_path':"assets/img/michela_paganini.jpeg"}
         ]
     },
     {'name': 'Incentives for Better Evaluation',
