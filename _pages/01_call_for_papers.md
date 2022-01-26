@@ -7,7 +7,7 @@ nav: true
 horizontal: false
 ---
 
-The field of machine learning (ML) is undergoing massive growth, and it is becoming apparent that it may be in need of self-reflection to ensure that efforts are directed towards real progress of the field [1-2]. More recently, there is an increasing number of papers at top conferences on the topic of ML evaluation, which show evidence of non-reliable findings and unsupported empirical claims in several subfields including computer vision [3-4], recommender systems [5], reinforcement learning [6-8], natural language processing [9-14], hyperparameter optimization [15-17] and more [18-24]. Such papers highlight the need for more scientific rigor and careful evaluation, both by researchers themselves and by reviewers. Therefore, it is clear that these are discussions that researchers are interested in having, while it is yet unclear what is the best path forward. We can accelerate this self-reflection by having thoughtful and careful discussions, and by gathering a diversity of opinions. This includes drawing from the perspectives not only of researchers inside machine learning, but also drawing from the experience of other scientific disciplines, as well as from experts in statistics and in philosophy of science.
+The field of machine learning (ML) is undergoing massive growth, and it is becoming apparent that it may be in need of self-reflection to ensure that efforts are directed towards real progress of the field [1-2]. More recently, there is an increasing number of papers at top conferences on the topic of ML evaluation, which show evidence of non-reliable findings and unsupported empirical claims in several subfields including computer vision [3-4], recommender systems [5], reinforcement learning [6-8], natural language processing [9-14], hyperparameter optimization [15-17] and more [18-24]. Such papers highlight the need for more scientific rigor and careful evaluation, both by researchers themselves and by reviewers. Therefore, it is clear that these are discussions that researchers are interested in having, while it is yet unclear what is the best path forward. We can accelerate this self-reflection by having thoughtful and careful discussions, and by gathering a diversity of opinions. 
 
 We invite two types of papers -- opinion papers (up to 4 pages) stating positions on the topics
 related to those listed above, and methodology papers (up to 8 pages excluding references) about
@@ -74,9 +74,9 @@ Recommendation
 
 [5] Dacrema, M.F., Cremonesi, P. and Jannach, D., 2019, September. Are we really making much progress? A worrying analysis of recent neural recommendation approaches. In Proceedings of the 13th ACM Conference on Recommender Systems (pp. 101-109)
 
-RL
+Reinforcement Learning 
 
-[6] Agarwal, R., Schwarzer, M., Castro, P. S., Courville, A., & Bellemare, M. G. (2021). Deep reinforcement learning at the edge of the statistical precipice. NeurIPS.
+[6] Agarwal, R., Schwarzer, M., Castro, P. S., Courville, A. C., & Bellemare, M. (2021). Deep reinforcement learning at the edge of the statistical precipice. Advances in Neural Information Processing Systems, 34.
 
 [7] Chan, S. C., Fishman, S., Korattikara, A., Canny, J., & Guadarrama, S. (2019, September). Measuring the Reliability of Reinforcement Learning Algorithms. In International Conference on Learning Representations.
 
@@ -110,7 +110,7 @@ Other
 
 [19] D'Amour, A., Heller, K., Moldovan, D., Adlam, B., Alipanahi, B., Beutel, A., ... & Sculley, D. (2020). Underspecification presents challenges for credibility in modern machine learning. arXiv preprint arXiv:2011.03395.
 
-[20] Dodge, J., Gururangan, S., Card, D., Schwartz, R. and Smith, N.A., 2019, January. Show Your Work: Improved Reporting of Experimental Results. In EMNLP/IJCNLP (1).
+[20] Dodge, J., Gururangan, S., Card, D., Schwartz, R. and Smith, N.A., 2019, January. Show Your Work: Improved Reporting of Experimental Results. In EMNLP/IJCNLP.
 
 [21] Kadlec, R., Bajgar, O., & Kleindienst, J. (2017). Knowledge base completion: Baselines strike back. arXiv preprint arXiv:1705.10744.
 
