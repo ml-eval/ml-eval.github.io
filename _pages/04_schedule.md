@@ -7,6 +7,8 @@ nav: true
 horizontal: true
 ---
 
+## The workshop will take place on April 29th during ICLR 2022.
+
 <table style="width:75%">
         <tr>
         <th style="text-align:right">Time (UTC)</th>
