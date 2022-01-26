@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 permalink: /talks/
-description: TODO
+description: We have invited the following speakers:
 nav: true
 horizontal: false
 ---
@@ -15,7 +15,7 @@ horizontal: false
     <td>
     <img class="thumbnail" src="../{{ speaker.img_path }}" alt="">
     </td>
-    <td style="text-align:left">TODO</td>
+    <td style="text-align:left">TBD</td>
   </tr>
 </table>
 {%- endfor %}
