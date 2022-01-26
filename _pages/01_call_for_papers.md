@@ -2,12 +2,12 @@
 layout: page
 title: Call for Papers
 permalink: /call-for-papers/
-description:
+description: The field of machine learning (ML) is undergoing massive growth, and it is becoming apparent that it may be in need of self-reflection to ensure that efforts are directed towards real progress of the field [1-2]. More recently, there is an increasing number of papers at top conferences on the topic of ML evaluation, which show evidence of non-reliable findings and unsupported empirical claims in several subfields including computer vision [3-4], recommender systems [5], reinforcement learning [6-8], natural language processing [9-14], hyperparameter optimization [15-17] and more [18-24]. Such papers highlight the need for more scientific rigor and careful evaluation, both by researchers themselves and by reviewers. Therefore, it is clear that these are discussions that researchers are interested in having, while it is yet unclear what is the best path forward. We can accelerate this self-reflection by having thoughtful and careful discussions, and by gathering a diversity of opinions. 
 nav: true
 horizontal: false
 ---
 
-The field of machine learning (ML) is undergoing massive growth, and it is becoming apparent that it may be in need of self-reflection to ensure that efforts are directed towards real progress of the field [1-2]. More recently, there is an increasing number of papers at top conferences on the topic of ML evaluation, which show evidence of non-reliable findings and unsupported empirical claims in several subfields including computer vision [3-4], recommender systems [5], reinforcement learning [6-8], natural language processing [9-14], hyperparameter optimization [15-17] and more [18-24]. Such papers highlight the need for more scientific rigor and careful evaluation, both by researchers themselves and by reviewers. Therefore, it is clear that these are discussions that researchers are interested in having, while it is yet unclear what is the best path forward. We can accelerate this self-reflection by having thoughtful and careful discussions, and by gathering a diversity of opinions. 
+
 
 We invite two types of papers -- opinion papers (up to 4 pages) stating positions on the topics
 related to those listed above, and methodology papers (up to 8 pages excluding references) about
