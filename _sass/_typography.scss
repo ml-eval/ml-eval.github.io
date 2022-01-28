@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    color: $text-color;
+    color: var(--global-text-color);
     font-weight: 100;
 }
 
@@ -13,7 +13,7 @@ abbr {
 }
 
 p {
-    color: #333;
+    color: var(--global-text-color);
     line-height: 1.5;
 }
 
