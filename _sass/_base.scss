@@ -574,3 +574,20 @@ h2 {
 }
 
 
+.anchor {
+  //float:right;
+  display: inline-block;
+  background-image: url("../img/24-243342_anchor-clipart-black-and-white.png");
+  filter: var(--global-anchor-filter);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 0.4em;
+  width: 0.4em;
+  margin-bottom: 0.1em;
+  margin-left: 0.5em;
+  vertical-align: baseline;
+}
+
+.anchor:hover {
+  filter: var(--global-anchor-on-hover-filter);
+}

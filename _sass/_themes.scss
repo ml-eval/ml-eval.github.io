@@ -15,6 +15,10 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
 
+  --global-anchor-filter: invert(50%);
+  --global-anchor-on-hover-filter: invert(75%);
+
+
   .fa-sun {
     display : none;
   }
@@ -37,6 +41,9 @@ html[data-theme='dark'] {
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
+
+  --global-anchor-filter: invert(50%);
+  --global-anchor-on-hover-filter: invert(25%);
 
   .fa-sun {
     padding-left: 10px;

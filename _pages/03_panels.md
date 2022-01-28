@@ -9,7 +9,7 @@ horizontal: false
 
 {%- for panel in site.panels %}
 
-<h1 id="{{ panel.anchor }}">{{ panel.name }}</h1>
+<h1 id="{{ panel.anchor }}">{{ panel.name }}<a href='/panels#{{ panel.anchor }}'><div class="anchor"></div></a></h1>
 
 **Moderator:** {{ panel.moderator }}
 
