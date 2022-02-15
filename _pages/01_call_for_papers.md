@@ -36,6 +36,26 @@ evaluation in ML. These topics may include:
   - Cultural changes and software tools for reliable evaluation
   - Understanding differences across subfields in ML evaluation
 
+
+### Schmidt Futures Grants
+
+Excitingly, the ML Evaluation Standards workshop will be collaborating with
+[@SchmidtFutures](https://twitter.com/SchmidtFutures) to grant $15k USD in awards for workshop
+submissions and reviewers! 
+
+As part of this collaboration, we are announcing a new track "Improvement to the Conference and
+Publication Process". We will consider awards for workshop submissions that propose ideas in the
+following areas:
+1. Ideas that incentivize better peer-reviewing processes (e.g. a new workflow for assigning paper reviewers)
+2. Ideas that address structural problems in ML publishing (e.g. proposing a new track for engineering-heavy work that would not be rewarded in traditional platforms)
+3. Ideas that emphasize (novel) reproducibility and/or standardization of methods evaluation (e.g. a novel reproducibility adoption mechanism for conferences)
+
+If your submission falls into one of these areas, please submit your proposal to the relevant track.
+
+We will also be granting awards for the best reviews. Reviewing can be a thankless task; in this
+workshop, we want to acknowledge reviewers' hard work, to reward their service to the community, to
+encourage quality reviews, and to set an example for future conferences/workshops.
+
 # Submission Website 
 <a href="https://cmt3.research.microsoft.com/SMILES2022/"> https://cmt3.research.microsoft.com/SMILES2022 </a>
 

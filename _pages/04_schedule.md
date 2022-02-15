@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-description: Tentative schedule. This will likely change significantly.
+description: Official schedule.
 nav: true
 horizontal: true
 ---
