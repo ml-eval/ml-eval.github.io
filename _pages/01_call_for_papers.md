@@ -40,7 +40,7 @@ evaluation in ML. These topics may include:
 ### Schmidt Futures Grants
 
 Excitingly, the ML Evaluation Standards workshop will be collaborating with
-[@SchmidtFutures](https://twitter.com/SchmidtFutures) to grant $15k USD in awards for workshop
+[@SchmidtFutures](https://twitter.com/SchmidtFutures) to grant $15,000 USD in awards for workshop
 submissions and reviewers! 
 
 As part of this collaboration, we are announcing a new track "Improvement to the Conference and
