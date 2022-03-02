@@ -61,7 +61,7 @@ encourage quality reviews, and to set an example for future conferences/workshop
 
 # Important Dates
 
-- Submission deadline: 4th March
+- Submission deadline: ~~4th March~~ **Extended to 8th March 11:59 pm AoE**
 - Accept/Reject Notification Date: 25th March
 - Camera Ready: 18th April
 - Workshop: 29th April 
