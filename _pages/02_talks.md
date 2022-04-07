@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 permalink: /talks/
-description: Invited speakers
+description: Invited speakers:
 nav: true
 horizontal: false
 ---
