@@ -38,3 +38,13 @@ table {
     border-top: 2px solid #333;
   }
 }
+
+td .anchor {
+  display: float;
+  margin: auto;
+  margin-right: -20px;
+  -webkit-transform: translateX(-30px); /* 10px to left */
+  -moz-transform: translateX(-30px); /* 10px to left */
+  -ms-transform: translateX(-30px); /* 10px to left */
+   transform: translateX(-30px); /* 10px to left */
+}
