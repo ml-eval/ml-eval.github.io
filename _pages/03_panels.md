@@ -17,27 +17,17 @@ horizontal: false
 
 ### Panelists
 
-<table style="width:75%">
+<table style="width:100%">
+    {% for panelist in panel.panelists %}
   <tr>
-    {% for panelist in panel.panelists limit:3 %}
-        <td style="text-align:center"><img class="thumbnail" src="../{{ panelist.img_path }}" alt=""></td>
+        <td style="text-align:center; width: 25%">
+          <img class="thumbnail" src="../{{ panelist.img_path }}" alt="">
+        </td>
+        <td style="text-align:left; width: 75%">
+          <h4><a href="{{ panelist.website }}"> {{ panelist.name }}</a> - {{ panelist.affiliations }}</h4>{{panelist.bio}}
+        </td>
+  </tr>
     {% endfor %}
-  </tr>
-  <tr>
-    {% for panelist in panel.panelists limit:3 %}
-        <td style="text-align:center"><a href="{{ panelist.website }}"> {{ panelist.name }}</a> <br> {{ panelist.affiliations }} </td>
-    {% endfor %} 
-  </tr>
-  <tr>
-    {% for panelist in panel.panelists offset:3 %}
-        <td style="text-align:center"><img class="thumbnail" src="../{{ panelist.img_path }}" alt=""></td>
-    {% endfor %}
-  </tr>
-  <tr>
-    {% for panelist in panel.panelists offset:3 %}
-        <td style="text-align:center"><a href="{{ panelist.website }}"> {{ panelist.name }}</a> <br> {{ panelist.affiliations }} </td>
-    {% endfor %} 
-  </tr>
 </table>
 
 {%- endfor %}
