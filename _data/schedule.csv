@@ -1,7 +1,7 @@
 start,end,categories,title,desc
 12h00,12h15,Welcome Note,,
 12h15,13h00,Invited Talk:,Thomas Wolf,
-13h00,13h45,Invited Talk:,Phillig Hennig & Frank Schneider,
+13h00,13h45,Invited Talk:,Frank Schneider,Improving Optimizer Evaluation in Deep Learning
 13h45,14h30,Invited Talk:,Rotem Dror,A Statistical Analysis of Automatic Evaluation Metrics for Summarization
 14h30,14h50,Contributed Talks (x2),,
 14h50,15h50,Panel:,Reproducibility and Rigor in ML,"Rotem Dror, Sara Hooker, Koustuv Sinha, Frank Schneider and Gaël Varoquaux"
@@ -9,9 +9,9 @@ start,end,categories,title,desc
 16h35,17h20,Invited Talk:,James Evans,
 17h20,18h20,Panel:,Show vs Fast Science,"Michela Pagannini, Chelsea Finn, James Evans, Russel Poldrack and Oriol Vinyals"
 18h20,18h50,Coffee Break,,
-18h50,19h35,Invited Talk:,Melanie Mitchell,
-19h35,20h20,Invited Talk:,Katherine Heller,
-20h20,21h05,Invited Talk:,Corinna Cortes,
+18h50,19h35,Invited Talk:,Melanie Mitchell,Beyond Accuracy: How to Evaluate Understanding on Conceptual Abstraction Benchmarks
+19h35,20h20,Invited Talk:,Katherine Heller,A framework for improved ML evaluations
+20h20,21h05,Invited Talk:,Corinna Cortes,Inconsistency in Conference Peer Review: Revisiting the 2014 NeurIPS Experiment
 21h05,21h35,Contributed Talks (x3),,
 21h35,22h35,Panel:,Incentives for better evaluation,"Corinna Cortes, John Langford, Kyunghyun Cho and Yoshua Bengio"
 22h35,23h35,2nd Poster Session,,
