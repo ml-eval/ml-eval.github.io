@@ -1,0 +1,34 @@
+div.pdf {
+  font-size: 0.7em;
+  display: inline-block;
+  margin: auto;
+  margin-right: -45px;
+  -webkit-transform: translate(-45px, -3px); /* 10px to left */
+  -moz-transform: translate(-45px, -3px); /* 10px to left */
+  -ms-transform: translate(-45px, -3px); /* 10px to left */
+   transform: translate(-45px, -3px); /* 10px to left */
+  //-webkit-transform: translateY(-3px); /* 10px to left */
+  //-moz-transform: translateY(-3px); /* 10px to left */
+  //-ms-transform: translateY(-3px); /* 10px to left */
+  // transform: translateY(-3px); /* 10px to left */
+}
+
+div.video {
+  font-size: 0.7em;
+  display: inline-block;
+  margin: auto;
+  margin-right: -45px;
+  -webkit-transform: translate(-45px, 45px); /* 10px to left */
+  -moz-transform: translate(-45px, -45px); /* 10px to left */
+  -ms-transform: translate(-45px, -45px); /* 10px to left */
+   transform: translate(-45px, 25px); /* 10px to left */
+  //-webkit-transform: translateY(-3px); /* 10px to left */
+  //-moz-transform: translateY(-3px); /* 10px to left */
+  //-ms-transform: translateY(-3px); /* 10px to left */
+  // transform: translateY(-3px); /* 10px to left */
+}
+
+
+div.paper {
+    margin-bottom: 2em;
+}
