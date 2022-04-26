@@ -453,7 +453,7 @@ panels: [
         'website': 'https://mickypaganini.github.io',
         'affiliations': 'DeepMind',
         'img_path':"assets/img/michela_paganini.jpeg",
-        'bio': ''},
+        'bio': 'Michela is a Research Scientist at DeepMind. She was previously a Postdoctoral Researcher at Facebook AI Research and an affiliate at Lawrence Berkeley National Lab. She earned her Ph.D. in physics from Yale University, where she worked on the design, development, and deployment of deep learning algorithms for the ATLAS experiment at CERN, with a focus on computer vision and generative modeling. Prior to that, she graduated from the University of California, Berkeley with degrees in physics and astrophysics. Her current research focuses on model understanding and sparsification: her work involves empirically characterizing neural network behavior, with a recent interest in large scale language models, by investigating their inner workings in the over-parametrized and under-parametrized regimes. Michela has a broad interest in the science of deep learning, with a focus on understanding emergent behavior in neural networks from a mechanistic perspective.'},
         *james_evans,
         {'name': 'Russel Poldrack',
         'website': 'https://poldracklab.stanford.edu',
