@@ -11,8 +11,8 @@ horizontal: true
 
 <table style="width:100%">
         <tr>
-        <th style="text-align:right">Time (UTC)</th>
-        <th style="text-align:left">Session</th>
+        <th style="text-align:right; width:15%">Time (UTC)</th>
+        <th style="text-align:left; width: 85%">Session</th>
         </tr>
     {% for time in site.data.schedule %}
         <tr>

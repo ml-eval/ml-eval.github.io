@@ -1,6 +1,6 @@
 start,end,categories,title,desc
 12h00,12h15,Welcome Note,,
-12h15,13h00,Invited Talk:,Thomas Wolf,
+12h15,13h00,Invited Talk:,Thomas Wolf,The challenges of open evaluation at Hugging Face: from open-source evaluation libraries to evaluating +30k hosted models and models of 176B parameters
 13h00,13h45,Invited Talk:,Frank Schneider,Improving Optimizer Evaluation in Deep Learning
 13h45,14h30,Invited Talk:,Rotem Dror,A Statistical Analysis of Automatic Evaluation Metrics for Summarization
 14h30,14h50,Contributed Talks (x2),,
